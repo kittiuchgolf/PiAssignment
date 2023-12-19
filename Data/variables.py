@@ -1,0 +1,6 @@
+SWAG_LABS_URL = "https://www.saucedemo.com"
+VALID_USERNAME = "standard_user"
+VALID_PASSWORD = "secret_sauce"
+INVALID_PASSWORD = "secret_Sauce"
+LOCKED_OUT_USERNAME = "locked_out_user"
+TEST_PRODUCT = "Sauce Labs Bike Light"
